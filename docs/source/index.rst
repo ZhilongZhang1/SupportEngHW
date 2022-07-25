@@ -1,9 +1,9 @@
-Welcome to Dao AI ReadTheDoc Documentation!
+Welcome to DaoAI ReadTheDoc Documentation!
 ===================================
 
-Dao AI is an Automation Machinery Manufacturing company based out of Vancouver,
+DaoAI is an Automation Machinery Manufacturing company based out of Vancouver,
 
-Lumache has its documentation hosted on Read the Docs.
+DaoAI has its documentation hosted on Read the Docs.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
